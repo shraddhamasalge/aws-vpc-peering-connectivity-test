@@ -1,4 +1,4 @@
-# AWS VPC Peering Connectivity Test
+# AWS VPC Peering Connectivity 
 # 📌 Project Overview
 
 This project demonstrates how to establish __secure private communication between two AWS Virtual Private Clouds (VPCs) using VPC Peering__.Two Ubuntu EC2 instances were launched in separate VPCs, Nginx was installed on both instances, and connectivity was verified using Ping and cURL over private IP addresses.
